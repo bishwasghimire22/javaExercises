@@ -32,3 +32,10 @@ public class ArraysLotto {
 	}
 
 }
+/*Create a program called ArraysLotto that generates 7 unique lotto numbers (no duplicate numbers
+allowed) and shows them in ascending order. Each lotto number is a random integer between 1 and
+39.
+You can generate pseudo-random integers as below. NB! You should create exactly one random
+generator in the ArraysLotto program.
+Random randomGenerator = new Random();
+int x = randomGenerator.nextInt(5); */
