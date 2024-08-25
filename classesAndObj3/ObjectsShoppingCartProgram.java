@@ -22,3 +22,23 @@ public class ObjectsShoppingCartProgram {
 	}
 
 }
+/*Create classes Product, Item, and ShoppingCart.
+* The Product class has three fields, a parametric constructor, and getters and setters for all fields.
+* The ShoppingCart class and the Item class should be as below.
+ShoppingCart
+- ArrayList<Item> itemList
++ ShoppingCart()
++ void add(Product product, int quantity)
++ void remove(Product product)
++ double getTotalPrice()
++ String toString()
+Item
+- Product product
+- int quantity
++ Item (Product product, int quantity)
++ Product getProduct()
++ int getQuantity()
++ double getSubtotal()
+NB! Use the ready-made program class below to test your own classes. Do not modify the program
+class at all.*/
+
