@@ -13,3 +13,12 @@ public class ObjectsWordPairsProgram {
 	}
 
 }
+/*First, create a new class called WordPair. The features of the WordPair class should be exactly as
+shown in the diagram below. NB! The class should have no other fields or methods than shown in
+the diagram. The WordPair class should not contain any code for inputting data from the user or
+printing data.
+Then, create a main program called ObjectsWordPairsProgram. In the program, create three
+objects from the WordPair class and assign their references to reference variables. See the example
+output for the English and Finnish words.
+Finally, the program should print the words held by the WordPair objects as shown in the example
+output. Use the get methods to get the English and Finnish words from the WordPair objects.*/
