@@ -42,3 +42,6 @@ public class StringCharacters {
 	}
 
 }
+/*Create a program called StringCharacters that first inputs a string from the user. Then the program
+should print the number of letters, the number of digits, and the number of other characters in the
+string.*/
