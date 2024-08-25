@@ -27,3 +27,9 @@ public class MethodsDiscount {
 	}
 
 }
+/*Create a program called MethodsDiscount that has a method called computePercentage. The
+computePercentage method should take list price and selling price as parameters. The method
+should compute and return the discount percentage.
+The main method should first input the prices from the user and then call the computePercentage
+method with the inputted values. Finally, the main method should print the discount percentage
+with two decimal places. The computePercentage method should not print anything.*/
