@@ -37,3 +37,6 @@ public class ObjectsSortWordPairsLambda {
 	}
 
 }
+/*First, create a copy of your ObjectsSortWordPairs program and name the copy as
+ObjectsSortWordPairsLambda. Then, modify the copy so that you sort the list of WordPairs with
+lambda expressions. */
